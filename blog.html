@@ -1,0 +1,10 @@
+---
+layout: blog
+group: nav
+title: Blog
+---
+<div class="text-left">
+	{% for post in site.posts %}
+	    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	{% endfor %}
+</div>

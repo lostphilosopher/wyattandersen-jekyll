@@ -1,0 +1,12 @@
+# Site settings
+title: Professional website for Wyatt Andersen Software Engineer.
+email: wandersen02@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Professional website for Wyatt Andersen Software Engineer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wyattandersen.com" # the base hostname & protocol for your site
+twitter_username: wandersen02
+github_username:  lostphilosopher
+
+# Build settings
+markdown: kramdown
