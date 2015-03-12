@@ -1,0 +1,18 @@
+---
+layout: blog
+comments: true
+title:  "Automating unit tests with duct tape and bubble gum"
+date:   2015-02-22
+categories: ci, hacks
+---
+##CI with duct tape and bubble gum##
+
+There are companies out there where deployments happen on demand. There are companies where unit, integration, and regression testing is solid, and automatic. New features are introduced with a near zero defect rate, and changes can happen at the speed of user need.
+
+I don't work for one of those companies.
+
+When I started at CaringBridge we had some unit tests, and some regression tests, but none were automated. When we decided to try to up our unit test game we had three major obstacles.
+
+1. We are way behind no unit tests.
+
+2. 
