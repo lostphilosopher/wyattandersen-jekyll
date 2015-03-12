@@ -15,6 +15,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
 }
 .core-template {
     padding: 40px 15px;
@@ -26,6 +27,14 @@ body {
 }
 .text-left {
     text-align: left;
+}
+.a-no-underline {
+    text-decoration: none !important;
+}
+.text-box {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* About CSS */
@@ -41,6 +50,6 @@ body {
     text-align: left; 
     display: none;
 }
-.resume-section {
+.section {
     border-bottom: 1px solid #000000;
 }

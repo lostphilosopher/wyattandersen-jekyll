@@ -2,8 +2,8 @@
 layout: blog
 comments: true
 title:  "Think outside the circle"
-date:   2228-03-22 12:00:00
-categories: jekyll
+date:   2015-02-22
+categories: agile, standup
 ---
 ##Think outside the circle##
 

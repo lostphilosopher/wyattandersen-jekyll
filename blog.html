@@ -1,10 +1,27 @@
 ---
-layout: blog
+layout: default
 group: nav
 title: Blog
 ---
-<div class="text-left">
+<div class="row section">
+	<div class="col-md-1">            
+	</div>
+	<div class="col-md-5 text-left">    
+		<h1>Blog</h1>        
+	</div>
+	<div class="col-md-5 text-right">
+		<strong>
+			{% include contact.html %}
+			<br />			
+		</strong>	         
+	</div>
+	<div class="col-md-1">
+	</div>			
+</div>
+<div class="text-left text-box">
 	{% for post in site.posts %}
-	    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	    <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong> 
+	    ({{ post.date | date: "%m/%d/%Y" }})<br />
+	    <br />
 	{% endfor %}
 </div>
