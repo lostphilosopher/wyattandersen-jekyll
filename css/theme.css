@@ -36,6 +36,10 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 /* About CSS */
 .img-headshot {
