@@ -48,7 +48,7 @@ But empathy isn't a boolean I can flip on in `wyatt.config`. It takes effort and
 
 Now let's assume you are one with your colleagues, one with your users, and one with your product.  
 
-![Think the scene from the Matrix where Neo can "see" the code that governs the world around him.](http://i.stack.imgur.com/zymAc.gif "He is the One. - Morpheus")  
+<img src="http://i.stack.imgur.com/zymAc.gif" class="img img-responsive" alt="Picture of the scene from the Matrix where Neo can 'see' the code that governs the world around him." title="He is the One. - Morpheus"/>
 
 Now what?
 
