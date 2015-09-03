@@ -7,7 +7,7 @@ body {
     min-height: 800px;
   	padding-top: 50px;
     font-size: 20px;
-    background: url(http://4.bp.blogspot.com/-34qiQSqfgtM/T2jIbsZPgrI/AAAAAAAAAJ4/5Nvw1PcKMB8/s1600/Minneapolis+skyline+merged+edit.JPG); 
+    background: url('/assets/minneapolis_skyline.jpg') bottom right no-repeat; background-attachment: fixed;; 
     background-repeat: no-repeat; 
     background-position: bottom;
     background-color: #222;
