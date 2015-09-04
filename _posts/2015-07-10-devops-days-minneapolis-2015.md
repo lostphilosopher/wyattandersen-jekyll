@@ -6,10 +6,11 @@ date:   2015-07-10
 categories: devops, conferences
 ---
 
+I wouldn't write a blog post if I didn't want people to read it, think about it, and talk about it. However, statistically speaking, you've got plenty of opportunities to read the thoughts of a straight white man on any aspect of tech so here's some people who: 1. Were speakers or organizers of this event. 2. Write about tech, and might even write about this event. 3. Aren't straight white men.  
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">&quot;Only area of tech industry that needs more str8 white dudes is fixing the [str8 white dudes] in the industry&quot; - <a href="https://twitter.com/jonlives">@jonlives</a> <a href="https://twitter.com/hashtag/DevOpsDays?src=hash">#DevOpsDays</a></p>&mdash; Rainbow DashOps (@mattstratton) <a href="https://twitter.com/mattstratton/status/619167395605803008">July 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-^ I wouldn't write a blog post if I didn't want people to read it, think about it, and talk about it. However, statistically speaking, you've got plenty of opportunities to read the thoughts of a straight white man on any aspect of tech so here's some people who: 1. Were speakers or organizers of this event. 2. Write about tech, and might even write about this event. 3. Aren't straight white men.  
 
 - [http://bridgetkromhout.com/](http://bridgetkromhout.com/)  
 - [http://beero.ps/](http://beero.ps/)  
