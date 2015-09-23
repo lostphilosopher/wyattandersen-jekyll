@@ -19,5 +19,7 @@ This system can also be altered so that the list is constructed digitally. This 
 
 We've been experimenting with this recently at CaringBridge and our stand ups have improved. I’ll return to this post if we gain any further insights.         
 
+- - -  
+
 1. If you're not standing in your stand ups you really should try it.
 2. Issue 107: We like what you’re doing with the log in page, but could you do it better?            
