@@ -5,7 +5,7 @@ title:  "Pair programming meets pair managing"
 date:   2015-03-11
 categories: project management
 ---
-##Pair programming meets pair managing##
+# Pair programming meets pair managing
 
 I’m a believer in pair programming. I understand it doesn’t work for everyone, and I would advise people who do enjoy it to make sure they are still spending time sweating (and drinking and swearing) their way through hairy technical problems. Someday[1] I’ll write a post fleshing out my thoughts on pair programming, but today I’d like to talk about pair project managing.
 
@@ -17,7 +17,7 @@ There isn’t a hard cut off. Queue the sad trombone.
 
 If you are in this situation, and on the fence, consider this:
 
-###Pair project management###
+## Pair project management
 
 In pair project management you bring on an additional developer that has interest in the project management side of things, and you select one of your existing team (who is also interested in project management) to take on project management for the next project. This programmer is no longer accountable for producing project code (though they are welcome to engage in low priority bug fixing as time permits). Their main responsibility becomes running the project. Your new developer (who is also interested in project management) takes on a backup project manager role. They fill in when the primary is absent, and assist the primary as need be. Their primary responsibility remains project code development. At the end of your project, the two switch roles and the cycle continues.
 
