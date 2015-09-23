@@ -5,7 +5,7 @@ title:  "Think outside the circle"
 date:   2015-02-22
 categories: agile, standup
 ---
-##Think outside the circle##
+# Think outside the circle
 
 You're in stand up. Standing[1] in a circle. The project manager asks, "does anyone have any updates"? The PMs eyes roam the room, person to person. "Who wants to start?" A volunteer steps forward and asks for clarification on a nebulous business requirement[2]. This is good. The meeting is now underway, and if starting is half the battle it might even be half way over. The PM looks at the person to the left of our brave volunteer. That person is you. If you're like most people you feel pressure to say, something. If you have something that needs to be shared this moment is easy, but if you don't... You might be tempted to recap what you did yesterday (often the same thing you do everyday, and easily inferred by your job title), or ask a question that could better be handled in chat or email. This process continues all around the circle and with each person there is the risk that they too will share an unnecessary update that tacks a few more moments onto the clock.
 
@@ -18,6 +18,8 @@ There are some additional benefits that come with this approach. The expectation
 This system can also be altered so that the list is constructed digitally. This is necessary when the team includes remote workers. This format can also provide a record of what was discussed.
 
 We've been experimenting with this recently at CaringBridge and our stand ups have improved. I’ll return to this post if we gain any further insights.         
+
+- - -  
 
 1. If you're not standing in your stand ups you really should try it.
 2. Issue 107: We like what you’re doing with the log in page, but could you do it better?            
