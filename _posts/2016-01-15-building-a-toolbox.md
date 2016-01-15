@@ -3,7 +3,7 @@ layout: blog
 comments: true
 title:  "Building a toolbox"
 date:   2016-01-15
-categories: devlopment
+categories: development
 ---
 # Building a toolbox
 
