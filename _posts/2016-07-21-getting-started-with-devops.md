@@ -57,7 +57,7 @@ Now that you've got a starting point, try out a solution. Look at this as an exp
 
 ### Track
 
-Moment of truth. Did it work? Has your metric improved? Are there other changes? Can others see the improvement? What went right, what went wrong (this is great time for a (retrospective)[https://smile.amazon.com/Project-Retrospectives-Handbook-Team-Reviews/dp/0932633447], (after action report)[http://www.acq.osd.mil/dpap/ccap/cc/jcchb/Files/Topical/After_Action_Report/resources/tc25-20.pdf] or postmortem).
+Moment of truth. Did it work? Has your metric improved? Are there other changes? Can others see the improvement? What went right, what went wrong (this is great time for a [retrospective](https://smile.amazon.com/Project-Retrospectives-Handbook-Team-Reviews/dp/0932633447), [after action report](http://www.acq.osd.mil/dpap/ccap/cc/jcchb/Files/Topical/After_Action_Report/resources/tc25-20.pdf) or postmortem).
 
 ### Iterate
 
