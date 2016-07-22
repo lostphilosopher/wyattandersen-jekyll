@@ -13,7 +13,7 @@ I had a couple conversations at [DevOps Days Minneapolis](http://www.devopsdays.
 
 > From wikipedia: "DevOps (a clipped compound of development and operations) is a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes. It aims at establishing a culture and environment where building, testing, and releasing software can happen rapidly, frequently, and more reliably." [1]
 
-DevOps, like any other buzzword, represents a powerful tool and a dangerous trap. Sometimes simultaneously. Getting started down the right path, especially at a large organization can be daunting task. DevOps requires buy in, people skills, technical skills, and a commitment to improvement, iteration, communication, inclusivity, and learning.
+DevOps, like any other buzzword, represents a powerful tool and a dangerous trap. Sometimes simultaneously. Getting started down the right path, especially at a large organization can be a daunting task. DevOps requires buy in, people skills, technical skills, and a commitment to improvement, iteration, communication, inclusivity, and learning.
 
 There are many right ways to take the first step. In what follows I offer how I've done it, as a framework for how I believe you can do it.
 
@@ -31,7 +31,7 @@ Your next task is define a metric that can prove to yourself and others that you
 
 ### Document
 
-Dig into your problem space, understand what goes into in now, step by step. Become an expert on the way thing are. What does your process look like today? What gets done? Who does it? How do they do it? The better you know this, the better you'll be able to improve it. Build a spreadsheet, and get this documented. Don't skimp on this step it's one of the most important.
+Dig into your problem space, understand what goes into it now, step by step. Become an expert on the way things are. What does your process look like today? What gets done? Who does it? How do they do it? The better you know this, the better you'll be able to improve it. Build a spreadsheet, and get this documented. Don't skimp on this step it's one of the most important.
 
 ### Correlate
 
