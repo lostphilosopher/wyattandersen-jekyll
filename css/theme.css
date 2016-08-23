@@ -17,9 +17,6 @@ body {
     -o-background-size: cover;
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
-    /* Wrapping */
-    word-wrap: break-word; /* IE */
-    word-break: break-all;
 }
 .core-template {
     padding: 40px 15px;
@@ -43,6 +40,10 @@ body {
 .centered {
     margin-left: auto;
     margin-right: auto;
+}
+.no-wrap {
+    word-wrap: break-word; /* IE */
+    word-break: break-all;
 }
 
 /* About CSS */

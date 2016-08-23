@@ -51,8 +51,16 @@ Perhaps the most important piece of a successful sabbatical program is planning.
 
 I’m a huge proponent of trying things, on small scale, evaluating and iterating. A sabbatical program is no different. I’d be interested to hear if you’ve tried this, if you’ve made it work, or if it crashed and burned. My advise is simply to give it a shot. [5]
 
-1.	http://fortune.com/2015/03/16/paid-sabbaticals/
+---
+
+<div class="no-wrap">
+1.	http://fortune.com/2015/03/16/paid-sabbaticals/  
+<br />
 2.	https://abc.xyz/investor/founders-letters/2004/
+<br />
 3.	https://facultyhandbook.stanford.edu/ch3.html
+<br />
 4.	https://www.thebalance.com/job-tenure-and-the-myth-of-job-hopping-2071302
+<br />
 5.	Ok, as a final, final note, I’ll point out that I’m talking about sabbaticals for software developers because software development is what I know. I make no claims about how this would work in other fields; that includes the claim that it wouldn’t.
+</div>
