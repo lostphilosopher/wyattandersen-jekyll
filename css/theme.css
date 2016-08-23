@@ -17,6 +17,9 @@ body {
     -o-background-size: cover;
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
+    /* Wrapping */
+    word-wrap: break-word; /* IE */
+    word-break: break-all;
 }
 .core-template {
     padding: 40px 15px;
