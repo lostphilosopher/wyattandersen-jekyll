@@ -2,25 +2,25 @@
 layout: blog
 comments: true
 title:  "Microservices: Means or Ends"
-date:   2016-03-10
+date:   2017-03-10
 categories: microservices, development
 ---
 
 # Microservices: Means or Ends
 
-The following comes from a talk I gave at [MicroMN](https://www.meetup.com/MicroMN/) at Field Nation.
+The following comes from a talk I gave at [MicroMN](https://www.meetup.com/MicroMN/) sponsored by [Field Nation](https://www.fieldnation.com/).
 
 <img src="https://i.stack.imgur.com/Ev5Ux.jpg" class="img img-responsive" alt="Scene from the movie The Matrix where Neo tries to bend a spoon with his mind." title="The Matrix Bent Spoon"/>
 
 > "Try only to realize the truth. There is no spoon. Then you'll see that it is not the spoon that bends, it is only yourself."
-- The Matrix
+\- The Matrix
 
 "Try only to realize the truth. There are no microservices. Then you’ll see that it is not the application that is Service Oriented, but only your development practices."
 
 Put less abstractly, in the words of Martin Fowler:
 
 > “The term "Microservice Architecture" has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.”
-- Martin Fowler (https://martinfowler.com/articles/microservices.html)
+\- [Martin Fowler](https://martinfowler.com/articles/microservices.html)
 
 Microservices, like design patterns, don’t exist because someone in a research group invented them, published a paper, and blew the software development communities’ collective mind. And microservices, unlike the tag line for every sponsored microservices link on Google cannot be bought off the shelf. They exist because software developers encountered a set of problems repeatedly, and with the aid of training, experience, intuition and all those other terms we use to describe “trial and error” to our employers - arrived at a set of practices that countered these problems. People observing and participating in this trend started using various phrases for it around 2011, but by 2012 this suite of problem solving practices was generally referred to as microservice architecture.
 
@@ -54,7 +54,7 @@ Researching for this talk I read a great example of what a web based calculator 
 But the ugly truth is that very few of us are writing systems with that level of logical clarity and clear lines of demarcation characteristic of a calculator. These lines of demarcation are related to what Michael Feathers, in Working Effectively With Legacy Code, calls “seams.”
 
 > “A seam is a place where you can alter behavior in your program without editing in that place.”
-- Michael Feathers, in _Working Effectively With Legacy Code_
+\- Michael Feathers, in _Working Effectively With Legacy Code_
 
 A seam represents joined behavior between two otherwise unrelated systems. They are why you get tripped up unit testing your sign up flow after you add the “Welcome” email your marketing team asks for. Feathers devotes a whole chapter to them and how to handle them properly. It takes work, and adding microservices to the mix doesn’t solve the problem on its own. In fact it’s probably easier to identify seams in a monolith than across microservices.
 

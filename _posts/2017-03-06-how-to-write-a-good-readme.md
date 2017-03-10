@@ -18,36 +18,33 @@ Once you've got a decent README in place you'll be surprised how often it comes 
 
 ## Components of a good README
 
-The nomenclature may not be consistent, but there is a general consensus around the things your README should include. Here's what GitHub suggests a README should include:
+The nomenclature may not be consistent, but there is a general consensus around the things your README should include. Here's what [GitHub](https://help.github.com/articles/about-readmes/) suggests a README should include:
 
-> What the project does
-> Why the project is useful
-> How users can get started with the project
-> Where users can get help with your project
-> Who maintains and contributes to the project
-> - https://help.github.com/articles/about-readmes/
+> What the project does.
+> Why the project is useful.
+> How users can get started with the project.
+> Where users can get help with your project.
+> Who maintains and contributes to the project.
 
-Here's the advice from 18F:
+Here's the advice from [18F](https://pages.18f.gov/open-source-guide/making-readmes-readable/):
 
 > A description of what the project is for.
 > Instructions for how to develop, use, and test the code.
 > Instructions for how people can help.
 > List the licensing information for your project.
 > List the contact information for your team as well as where to ask questions.
-> - https://pages.18f.gov/open-source-guide/making-readmes-readable/
 
-And here's what the Rails framework offers in its template README files:
+And here's what the [Rails framework](https://github.com/rails/rails/blob/master/railties/lib/rails/generators/rails/app/templates/README.md) offers in its template README files:
 
-> Ruby version
-> Ruby version
-> System dependencies
-> Configuration
-> Database creation
-> Database initialization
-> How to run the test suite
-> Services (job queues, cache servers, search engines, etc.)
-> Deployment instructions
-> - https://github.com/rails/rails/blob/master/railties/lib/rails/generators/rails/app/templates/README.md
+> Ruby version.
+> Ruby version.
+> System dependencies.
+> Configuration.
+> Database creation.
+> Database initialization.
+> How to run the test suite.
+> Services (job queues, cache servers, search engines, etc.).
+> Deployment instructions.
 
 There's certainly other guides out there, but I think you get the general trends.
 
@@ -112,4 +109,5 @@ If there are any other legal considerations or formal guidelines this is a good 
 
 Despite your stellar README people may still have questions. People will still have questions. Tell them where to send them. Got a Slack or IRC channel? Email address? Twitter handle? This is the place to draw attention to those. You could also triage a bit in terms of where to go with what type of questions. "How to Contribute" questions might go to a different channel than "Do you have this feature?" questions.
 
+---
 1. Full disclosure: I'm bad at remembering to do this too...
