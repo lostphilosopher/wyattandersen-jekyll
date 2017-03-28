@@ -119,4 +119,4 @@ Solve the problem in front of you. Do the next best thing for you business. Take
 Try only to realize the truth. There is no spoon. There are no microservices. Then you’ll see that it is not the application that is Service Oriented, but only your development practices.
 
 ---
-1. It's a big company. Large sections of the technical architecture are really well built. The end product that the customer uses is reliable. What suffers are internal services and new projects that struggle to interface with the existing architecture.
+1. It's a big company. Large sections of the technical architecture are really well built. The end product that the customer uses is reliable. What suffers are internal services and new projects that struggle to interface with the existing architecture. (And, if this wasn't clear already, much of the exaggerations in this post are merely for humorous effect.)
