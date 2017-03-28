@@ -70,7 +70,7 @@ I’ll tell you what happens, I work for Optum. We’re part of UnitedHealth Gro
 
 In the real world of nuclear winter and cannibalistic sewer dwelling mole people - those three microservices do exist, as do dozens more with the same names and the same stated purpose. Each accessing a subset of the data and returning a subset of that data in a format one particular developer thought was a good idea at the time and often named with a series of arcane acronyms whose meaning is a closely guarded secret protected by a cult of DBA-warrior-monks rumored to be living in the mountains of Peru. Or a data center in Hopkins.
 
-The point is that even though we have a good use case for microservices, and chose to use them, doesn’t mean that we use them  well. And by not using them well we miss out on many of the benefits we started using microservices for in the first place.
+The point is that even though we have a good use case for microservices, and chose to use them, doesn’t mean that we always use them well. [1] And by not using them well we miss out on many of the benefits we started using microservices for in the first place.
 
 Alright. I’ve vented I feel better. Let’s get proactive.
 
@@ -117,3 +117,6 @@ In the words of Obama, let me be clear, I’m not trying to Rails against micros
 Solve the problem in front of you. Do the next best thing for you business. Take it incrementally, you can work towards a microservice architecture and reap benefits at every step. In this sense it’s not about microservices, or “going to microservices,” it’s about a culture that makes incremental improvements and has the courage to follow them. To microservices, to monoliths, and anywhere in between.
 
 Try only to realize the truth. There is no spoon. There are no microservices. Then you’ll see that it is not the application that is Service Oriented, but only your development practices.
+
+---
+1. It's a big company. Large sections of the technical architecture are really well built. The end product that the customer uses is reliable. What suffers are internal services and new projects that struggle to interface with the existing architecture. (And, if this wasn't clear already, much of the exaggerations in this post are merely for humorous effect.)
