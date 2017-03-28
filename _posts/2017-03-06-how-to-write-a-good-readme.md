@@ -51,6 +51,7 @@ There's certainly other guides out there, but I think you get the general trends
 A README should contain:
 
 * A description of the project
+* Where to find the project (URLs)
 * How to use the project
 * How to get started with the project
 * How to contribute to the project
@@ -108,6 +109,10 @@ If there are any other legal considerations or formal guidelines this is a good 
 ### Contact Us: Where to go for help with the project
 
 Despite your stellar README people may still have questions. People will still have questions. Tell them where to send them. Got a Slack or IRC channel? Email address? Twitter handle? This is the place to draw attention to those. You could also triage a bit in terms of where to go with what type of questions. "How to Contribute" questions might go to a different channel than "Do you have this feature?" questions.
+
+### Template
+
+If you like this approach for writing READMEs here's [a template (in markdown format) as a Gist](https://gist.github.com/lostphilosopher/0ba5a45a32d8f1defa88ccd6c45a92f4) for writing them in this fashion.
 
 ---
 1. Full disclosure: I'm bad at remembering to do this too...
