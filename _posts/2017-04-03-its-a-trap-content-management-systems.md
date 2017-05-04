@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title:  "It's a trap! Content Management Systems"
 date:   2017-04-03
-categories: development, cms
+categories: development
+blurb: "Content Management Systems (CMS), as they are generally conceived, are a trap. The problem isn't with the software (though technical problems will arise). The problem is with the user's expectations and the failure control them."
 ---
 
 # It's a trap! Content Management Systems

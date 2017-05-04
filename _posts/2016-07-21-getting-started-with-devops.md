@@ -4,6 +4,7 @@ comments: true
 title:  "Getting Started with DevOps"
 date:   2016-07-21
 categories: development, devops
+blurb: "I had a couple conversations at DevOps Days Minneapolis about how get started with DevOps. I've collected my thoughts here."
 ---
 # Getting Started with DevOps
 

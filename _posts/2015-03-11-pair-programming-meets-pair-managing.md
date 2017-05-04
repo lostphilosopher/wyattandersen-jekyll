@@ -4,6 +4,7 @@ comments: true
 title:  "Pair programming meets pair managing"
 date:   2015-03-11
 categories: project management
+blurb: "I’m a believer in pair programming. I understand it doesn’t work for everyone, and I would advise people who do enjoy it to make sure they are still spending time sweating (and drinking and swearing) their way through hairy technical problems. Someday I’ll write a post fleshing out my thoughts on pair programming, but today I’d like to talk about pair project managing."
 ---
 # Pair programming meets pair managing
 

@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title:  "A Software Testing Strategy"
 date:   2017-03-27
-categories: testing
+categories: testing, development
+blurb: "Testing is one of areas of software development better suited for paint brushes than test tubes. There is overwhelming consensus on the value of testing. Like exercising or eating healthy - we all know we should do it. What I'm going to do here is bring together some battle proven best practices and ideas around unit testing, and present them in a format consistent with my experience."
 ---
 
 # A Software Testing Strategy

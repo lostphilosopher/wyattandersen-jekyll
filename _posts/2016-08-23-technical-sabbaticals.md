@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title:  "Technical Sabbaticals"
 date:   2016-08-23
-categories: management
+categories: leadership
+blurb: "The idea of a sabbatical is simple: take an extended paid absence from your career to achieve something. Sabbaticals are common in academia, where a professor might take one to do intensive research or write a paper, and they are even popping up in other industries; software development in particular."
 ---
 # Technical Sabbaticals
 
