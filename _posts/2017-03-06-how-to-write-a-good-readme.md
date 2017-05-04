@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title: "How to Write a Good README"
 date: 2017-03-06
-categories: open source
+categories: open source, documentation
+blurb: "The humble README page cannot be code golfed, it cannot be represented by a UML diagram, and it cannot be unit tested. Yet it is the unsung hero of your codebase, and a corner stone of collaborative software development."
 ---
 
 # How to Write a Good README

@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title:  "Think outside the circle"
 date:   2015-02-22
-categories: agile, standup
+categories: project management
+blurb: "You're in stand up. Standing in a circle. The project manager asks, \"does anyone have any updates\"? The PMs eyes roam the room, person to person. \"Who wants to start?\""
 ---
 # Think outside the circle
 

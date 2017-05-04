@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title:  "Microservices: Means or Ends"
 date:   2017-03-10
-categories: microservices, development
+categories: development
+blurb: "Try only to realize the truth. There are no microservices. Then you’ll see that it is not the application that is Service Oriented, but only your development practices."
 ---
 
 # Microservices: Means or Ends

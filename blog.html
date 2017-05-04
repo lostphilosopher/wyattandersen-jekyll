@@ -19,10 +19,22 @@ description: Blog posts by Wyatt Andersen on software engineering and project ma
 	<div class="col-md-1">
 	</div>
 </div>
+<br />
 <div class="text-left text-box">
 	{% for post in site.posts %}
-	    <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong>
-	    ({{ post.date | date: "%m/%d/%Y" }})<br />
-	    <br />
+      <div class='panel'>
+        <div class='panel-body'
+    	    <strong><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong>
+    	    <br />
+          {{ post.blurb }}
+          <a href="{{ post.url | prepend: site.baseurl }}"><I>Read more...</I></a>
+        </div>
+        <div class='panel-footer text-right'>
+          <I>
+          {{ post.date | date: "%m.%d.%Y" }}
+        </I>
+        </div>
+      </div>
+      <br />
 	{% endfor %}
 </div>

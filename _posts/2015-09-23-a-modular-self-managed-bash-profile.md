@@ -3,7 +3,8 @@ layout: blog
 comments: true
 title:  "A Modular, Self Managed bash_profile"
 date:   2015-09-23
-categories: programming, tooling
+categories: development
+blurb: "I’ve been an alias addict since I learned how to make them."
 ---
 
 # A Modular, Self Managed .bash_profile
@@ -31,9 +32,9 @@ If there’s anything I love more than aliases, it’s modularity. (And also whi
 I read some blog posts about modularizing your .bash_profile, but for some reason they made everything seem _really_ complicated. Since this was never a "must have” I kept putting it off, but recently I finally got around to doing it. Here’s how.
 
 1. In the bash folder of my dot_files repo (which I keep in the home directory of any machine using it) I created a single bash_profile, and a lib/ directory.
-   
+
 2. In my bash_profile I put the few things that I’m sure to use universally. Bash history formatting for example:
-    
+
     # Bash history  
     export HISTTIMEFORMAT="%h/%d - %H:%M:%S  "  
     export HISTCONTROL=ignoredups:ignorespace  
@@ -43,17 +44,17 @@ I read some blog posts about modularizing your .bash_profile, but for some reaso
     shopt -s checkwinsize
 
 1. Under lib/ I created file for each of the domains that I covered in my various bash_profiles: git, heroku, ruby, vagrant, grep, etc.
-   
+
 2. In my bash/ directory, along with bash_profile I created a .manifest file and listed it in .gitignore.
-   
+
 3. In that manifest file I sourced all the domain modules I wanted pulled in on the machine I was working on.
-   
+
     [ -r ~/dot_files/bash/lib/git ] && source ~/dot_files/bash/lib/git  
     [ -r ~/dot_files/bash/lib/grep ] && source ~/dot_files/bash/lib/grep  
     [ -r ~/dot_files/bash/lib/heroku ] && source ~/dot_files/bash/lib/heroku  
-   
+
 4. Finally in my bash_profile, I sourced the .manifest file.
-   
+
     [ -r ~/dot_files/bash/.manifest ] && source ~/dot_files/bash/.manifest
 
 With this done I could set up all my preferences with `cp ~/dot_files/bash/bash_profile ~/.bash_profile && source ~/.bash_profile`. Each machine I use now has it’s own .manifest that pulls in only what it needs.

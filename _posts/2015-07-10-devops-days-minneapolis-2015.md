@@ -4,6 +4,7 @@ comments: true
 title:  "DevOps Days Minneapolis 2015"
 date:   2015-07-10
 categories: devops, conferences
+blurb: "In my second year at CaringBridge our DevOps single point of failure moved to a new opportunity. Our vagrant machines started to fall behind our production environment and the progress we made towards continuous delivery was stopped in its tracks. Needless to say, we weren't doing DevOps."
 ---
 
 I wouldn't write a blog post if I didn't want people to read it, think about it, and talk about it. However, statistically speaking, you've got plenty of opportunities to read the thoughts of a straight white man on any aspect of tech so here's some people who: 1. Were speakers or organizers of this event. 2. Write about tech, and might even write about this event. 3. Aren't straight white men.  
