@@ -15,16 +15,16 @@
                 <li class="active"><a href="/" class="active">Home</a></li>
             {% else %}
                 <li><a href="/" class="active">Home</a></li>
-            {% endif %}              
+            {% endif %}
             {% for node in site.pages %}
                 {% if node.group == 'nav' %}
                     {% if page.url == node.url %}
-                        <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+                        <li class="active"><a href="{{node.url}}" class="active">{{node.header}}</a></li>
                     {% else %}
-                        <li><a href="{{node.url}}">{{node.title}}</a></li>
+                        <li><a href="{{node.url}}">{{node.header}}</a></li>
                     {% endif %}
-                {% endif %}    
-            {% endfor %}         
+                {% endif %}
+            {% endfor %}
             </ul>
         </div>
     </div>
