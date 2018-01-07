@@ -1,13 +1,13 @@
 ---
 layout: blog
 comments: true
-title: "Professional New Years Resolutions"
+title: "Professional New Year's Resolutions"
 date: 2018-01-01
 categories:
 blurb: "Why and how to pick a Professional New Year's Resolution."
 ---
 
-# Professional New Years Resolutions
+# Professional New Year's Resolutions
 
 ## Background
 
